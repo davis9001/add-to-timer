@@ -1,0 +1,20 @@
+{
+    "name": "add-to-timer",
+    "version": "1.0.0",
+    "description": "Display a countdown timer with time added by Twitch and Streamlabs API events.",
+    "main": "index.js",
+    "dependencies": {
+        "dotenv-flow": "^3.2.0",
+        "express": "^4.15.2",
+        "express-session": "^1.15.2",
+        "handlebars": "^4.0.6",
+        "passport": "^0.3.2",
+        "passport-oauth": "^1.0.0",
+        "request": "^2.81.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "davis9001",
+    "license": "Apache-2.0"
+}
